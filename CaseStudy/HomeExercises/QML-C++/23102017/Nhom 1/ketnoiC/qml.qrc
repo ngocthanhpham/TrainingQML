@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>main2_connection.qml</file>
+        <file>CTextInput.qml</file>
+    </qresource>
+</RCC>

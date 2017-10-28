@@ -1,0 +1,2 @@
+BTVN_Message: bài t?p v? COnnection signal and Object
+ketnoiC: k?t n?i signal và slot gi?a QML và C++ s? d?ng Binding

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Rect.qml</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>D:/Download/logo-lg-horizontal-full-color-v2.png</file>
+    </qresource>
+</RCC>

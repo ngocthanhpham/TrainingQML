@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>ClickMe.qml</file>
+        <file>DateTimeUI.qml</file>
+        <file>Hello.qml</file>
+    </qresource>
+</RCC>

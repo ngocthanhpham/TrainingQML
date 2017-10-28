@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>chat/ChatToolBar.qml</file>
+        <file>chat/ConversationPage.qml</file>
+        <file>chat/Image/Albert_Einstein.png</file>
+        <file>chat/Image/Albert_Einstein@2x.png</file>
+        <file>chat/Image/Albert_Einstein@3x.png</file>
+        <file>chat/Image/Albert_Einstein@4x.png</file>
+        <file>chat/Image/Hans_Gude@2x.png</file>
+        <file>chat/Image/Hans_Gude@3x.png</file>
+        <file>chat/Image/Hans_Gude@4x.png</file>
+        <file>chat/Image/menu.png</file>
+    </qresource>
+</RCC>

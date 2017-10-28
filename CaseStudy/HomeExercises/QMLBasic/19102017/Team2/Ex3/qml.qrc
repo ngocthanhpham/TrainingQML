@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>EmployeeRec.qml</file>
+    </qresource>
+    <qresource prefix="/Resource">
+        <file>Resource/employee.png</file>
+    </qresource>
+</RCC>

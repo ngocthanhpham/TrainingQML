@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Image/background-21717_640.jpg</file>
+        <file>Image/football.png</file>
+        <file>Image/soccer_ball.png</file>
+        <file>Ball.qml</file>
+        <file>EasingCurve.qml</file>
+    </qresource>
+</RCC>

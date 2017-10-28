@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>blueprint.jpg</file>
+        <file>curves/InBack.png</file>
+        <file>curves/InBounce.png</file>
+        <file>curves/InCirc.png</file>
+        <file>curves/InCubic.png</file>
+        <file>curves/InElastic.png</file>
+        <file>curves/InOutQuad.png</file>
+        <file>curves/InQuad.png</file>
+        <file>curves/InSine.png</file>
+        <file>curves/Linear.png</file>
+        <file>curves/OutQuad.png</file>
+        <file>Box.qml</file>
+        <file>EasingCurves.qml</file>
+        <file>EasingType.qml</file>
+        <file>Tracer.qml</file>
+    </qresource>
+</RCC>

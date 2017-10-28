@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>SearchBox.qml</file>
+    </qresource>
+    <qresource prefix="/Image">
+        <file>Image/clear.png</file>
+        <file>Image/if_search_298865 (1).png</file>
+        <file>Image/lineedit-bg.png</file>
+        <file>Image/lineedit-bg-focus.png</file>
+        <file>Image/logo-lg-horizontal-full-color-v2.png</file>
+        <file>Image/search16x16.png</file>
+        <file>Image/search32x32.png</file>
+    </qresource>
+</RCC>
